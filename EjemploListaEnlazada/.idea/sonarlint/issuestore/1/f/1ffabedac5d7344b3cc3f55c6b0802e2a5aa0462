@@ -1,0 +1,19 @@
+
+]	java:S125"<This block of commented-out lines of code should be removed.(ö”Áûÿÿÿÿ8¦ŠŸñ/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ƒêıÿÿÿÿ8¾Õ‹Ÿñ/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ñŞ°úÿÿÿÿ8¿Õ‹Ÿñ/
+X	java:S125"<This block of commented-out lines of code should be removed.(·¨ï©8ì¼ŠŸñ/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(è·êıÿÿÿÿ8åâ¹Ÿñ/
+Z	java:S106 "9Replace this use of System.out or System.err by a logger.(Ãçƒøÿÿÿÿ8æâ¹Ÿñ/
+P	java:S125%"<This block of commented-out lines of code should be removed.(ãüÖ+
+X	java:S125*"<This block of commented-out lines of code should be removed.(Ğ®—†8ŒÖŠŸñ/
+Z	java:S106-"9Replace this use of System.out or System.err by a logger.(¿ÄÀäüÿÿÿÿ8ïŸ¾Ÿñ/
+Z	java:S106/"9Replace this use of System.out or System.err by a logger.(’ÙÛúÿÿÿÿ8ğŸ¾Ÿñ/
+t
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(öï¬×úÿÿÿÿ
+t
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(î¶Ãÿÿÿÿÿ
+t
+java:S2293&"YReplace the type specification in this constructor call with the diamond operator ("<>").(¡×ªıÿÿÿÿ
+n
+java:S1192"LDefine a constant instead of duplicating this literal "Si existe: " 3 times.(ñŞ°úÿÿÿÿ8óŸ¾Ÿñ/
